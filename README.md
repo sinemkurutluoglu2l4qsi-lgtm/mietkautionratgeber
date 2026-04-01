@@ -6,7 +6,8 @@ Offizielles Repository von Mietkaution Ratgeber. Wir bieten Open-Source-Lösunge
 Willkommen im offiziellen Repository von **Mietkaution Ratgeber**. Dieses Projekt bietet Open-Source-Tools und mathematische Formeln zur Berechnung von Mietkautionszinsen, steuerlichen Vorteilen und rechtssicheren Bürgschaftsmodellen in Deutschland.
 
 ## Über dieses Projekt
-Die Verwaltung einer Mietkaution nach **§ 551 BGB** ist oft komplex. Unser Ziel ist es, Mietern und Vermietern transparente Werkzeuge an die Hand zu geben, um finanzielle Verluste durch Inflation oder fehlerhafte Abrechnungen zu vermeiden.
+Die Verwaltung einer <a href="https://mietkautionratgeber.de](https://mietkautionratgeber.de/mietkaution-alles-was-man-wissen-muss/" target="_blank">Mietkaution</a>
+ nach **§ 551 BGB** ist oft komplex. Unser Ziel ist es, Mietern und Vermietern transparente Werkzeuge an die Hand zu geben, um finanzielle Verluste durch Inflation oder fehlerhafte Abrechnungen zu vermeiden.
 
 ### Verfügbare Funktionen
 - **Kautionsrechner:** Berechnung der maximal zulässigen Kautionshöhe (3 Nettokaltmieten).
@@ -28,6 +29,9 @@ Die Verwaltung einer Mietkaution nach **§ 551 BGB** ist oft komplex. Unser Ziel
    - [Dokumentation folgt in Kürze]
 
 ---
+
+<a href="https://mietkautionratgeber.de" target="_blank">Besuchen Sie unsere Website für weitere Informationen.</a>
+
 
 ## Installation & Nutzung
 Die Tools basieren auf einfachen HTML/JS-Strukturen und können lokal im Browser ausgeführt werden. 
